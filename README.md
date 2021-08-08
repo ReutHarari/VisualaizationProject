@@ -26,7 +26,7 @@ Creating a csv file with all your e-mails (from your gmail inbox):
 	* the run may take some time *
 
 
-	8. when finish runing download this file to your project directory (same directory as 'main' and 'hirarical' files) as a .csv file
+	8. when finish runing download this file to your project directory (same directory with 'main' and 'hirarical' files) as a .csv file
 
 Third step:
 Run main program:
